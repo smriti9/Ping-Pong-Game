@@ -1,2 +1,4 @@
 # Ping-Pong-Game
-It’s an interesting game that can be played by two players with the help of a paddle and a ball.
+It is a simple game as it's name suggests. 
+This project is implemented using Object Oriented concepts such as Inheritance, Polymorphism,Abstraction,Encapsulation and Modularity.
+I have used Java AWT to build this window based application.
